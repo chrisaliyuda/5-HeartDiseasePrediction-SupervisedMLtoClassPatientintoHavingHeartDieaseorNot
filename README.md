@@ -16,4 +16,7 @@ The aim/goal of this project is to build a supervised prediction that can be abl
 - `target: Presence of heart disease (0 = no, 1 = yes).`
 
 # Data Preporocessing 
-This data doesn't need a lot of cleaning like dealing with null values and duplicates, but there is need to evaluate the distribution of the dataset. Check the link for the dataset distribution (here) 
+This data doesn't need a lot of cleaning like dealing with null values and duplicates, but there is need to evaluate the distribution of the dataset. Check the link for the dataset distribution [here](https://github.com/chrisaliyuda/Heart-Disease-Prediction/blob/main/Heart%20Disease.ipynb)
+The biased variables was standardized using z-score normalization. 
+
+# Model Building 
