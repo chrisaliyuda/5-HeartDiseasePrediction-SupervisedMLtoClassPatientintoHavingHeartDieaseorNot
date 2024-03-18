@@ -20,3 +20,4 @@ This data doesn't need a lot of cleaning like dealing with null values and dupli
 The biased variables was standardized using z-score normalization. 
 
 # Model Building 
+The model was trained on XGBoost classifier algorithm. K-fold split was used to train the model on different section of the dataset with their respective accuracy level. 
