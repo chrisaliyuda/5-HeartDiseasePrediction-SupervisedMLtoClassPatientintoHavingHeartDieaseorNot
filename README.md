@@ -1,7 +1,10 @@
 # Heart Disease Prediction
 The aim/goal of this project is to build a supervised prediction that can be able to classify whether a patient is prone to Heart Disease or not using the variables collected as shown below
+
 `age: Age of the patient (in years)`
+
 `sex: Gender of the patient (0 = female, 1 = male).`
+
 `cp: Chest pain type (0 = typical angina, 1 = atypical angina, 2 = non-anginal pain, 3 = asymptomatic).`
 trestbps: Resting blood pressure (in mm Hg).
 chol: Serum cholesterol level (in mg/dl).
